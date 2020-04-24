@@ -1,9 +1,9 @@
 {
   "shoplist": [
-    {"text": "本店", "value": 1},
-    {"text": "門田日吉店", "value": 2},
-    {"text": "城北店", "value": 3},
-    {"text": "只見店", "value": 4},
-    {"text": "喜多方店", "value": 5}
+    {"name": "本店", "id": 1},
+    {"name": "門田日吉店", "id": 2},
+    {"name": "城北店", "id": 3},
+    {"name": "只見店", "id": 4},
+    {"name": "喜多方店", "id": 5}
   ]
 }
