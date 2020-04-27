@@ -14,9 +14,7 @@
       generic: 3,
       handbook, 2,
     }
-  }
-
-  ],
+  },
   "datelist": [
     {"label": "4月23日(木)", "date": 20200423},
     {"label": "4月24日(金)", "date": 20200424},
