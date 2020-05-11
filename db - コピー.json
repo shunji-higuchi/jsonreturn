@@ -1,0 +1,25 @@
+{
+  "viewData": {
+    "shoplist": [
+      {"name": "本店", "id": 1},
+      {"name": "門田日吉店", "id": 2},
+      {"name": "城北店", "id": 3},
+      {"name": "只見店", "id": 4},
+      {"name": "喜多方店", "id": 5}
+    ],
+    "previousData": {
+      "shopId": 5,
+      "name": "てすと　たろう",
+      "phone": "09012345678",
+      "generic": 3,
+      "handbook": 2
+    }
+  },
+  "datelist": [
+    {"label": "4月23日(木)", "date": 20200423},
+    {"label": "4月24日(金)", "date": 20200424},
+    {"label": "4月25日(土)", "date": 20200425},
+    {"label": "4月26日(日)", "date": 20200426, "disabled": true}
+  ],
+  "timeinfo": {"min": "14:30", "max": "18:50"}
+}
