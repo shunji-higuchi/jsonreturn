@@ -11,7 +11,7 @@
         ]
       },
       {"name": "門田日吉店", 
-       "id": 2
+       "id": 2,
        "dateList": [
          {"label": "4月24日(木)", "date": 20200424, "timeinfo": {"min": "13:30", "max": "18:50"}},
          {"label": "4月25日(金)", "date": 20200425, "timeinfo": {"min": "10:00", "max": "18:50"}},
@@ -20,7 +20,7 @@
         ]
       },
       {"name": "城北店",
-       "id": 3
+       "id": 3,
        "dateList": [
          {"label": "4月25日(木)", "date": 20200425, "timeinfo": {"min": "12:30", "max": "18:50"}},
          {"label": "4月26日(金)", "date": 20200426, "timeinfo": {"min": "10:00", "max": "18:50"}},
@@ -29,7 +29,7 @@
         ]
       },
       {"name": "只見店",
-       "id": 4
+       "id": 4,
        "dateList": [
          {"label": "4月26日(木)", "date": 20200426, "timeinfo": {"min": "11:30", "max": "18:50"}},
          {"label": "4月27日(金)", "date": 20200427, "timeinfo": {"min": "10:00", "max": "18:50"}},
@@ -38,14 +38,14 @@
         ]
       },
       {"name": "喜多方店",
-       "id": 5
+       "id": 5,
        "dateList": [
          {"label": "4月27日(木)", "date": 20200427, "timeinfo": {"min": "10:30", "max": "18:50"}},
          {"label": "4月28日(金)", "date": 20200428, "timeinfo": {"min": "10:00", "max": "18:50"}},
          {"label": "4月29日(土)", "date": 20200429, "timeinfo": {"min": "11:00", "max": "18:50"}},
          {"label": "4月30日(日)", "date": 20200430, "disabled": true, "timeinfo": {"min": "14:30", "max": "18:50"}}
         ]
-      },
+      }
     ],
     "previousData": {
       "shopId": 5,
